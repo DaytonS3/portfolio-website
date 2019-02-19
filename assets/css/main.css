@@ -115,7 +115,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		color: #999999;
+		color: rgb(68, 175, 218);
 	}
 
 	html, input, select, textarea {
@@ -152,6 +152,7 @@ input, select, textarea {
 		line-height: 1.5em;
 		letter-spacing: -0.015em;
 	}
+
 
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
